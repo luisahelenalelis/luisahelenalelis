@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @luisahelenalelis
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hello World! 👋
 
-<!---
-luisahelenalelis/luisahelenalelis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### I'm Luisa Oliveira
+
+:computer: Dev | :desert_island: Travel | :clapper: Series | :video_game: Sudoku
+
+I'm a undergraduate student of Systems Analysis and Development at PUC MG. I'm interested in technologies and coding. In my free time I like to relax watching series and playing sudoko. I also love to travel with my family.
+
+My skills: Javascript, HTML, CSS, React native, C# and SQL.
+
+- :books: I’m currently working on a mobile app using React Native.  
+- 🌱 I’m currently learning Javascript.  
+
+
+See you soon! :star_struck:
