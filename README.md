@@ -13,3 +13,11 @@ My skills: Javascript, HTML, CSS, React native, C# and SQL.
 
 
 See you soon! :star_struck:
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/luisahelenalelis)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/luisahelenalelis/)  
+
+ 
+<div  style="display: inline-flex">
+<img align="center" height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luisahelenalelis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
+<img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisahelenalelis&layout=compact&langs_count=8&theme=dark"/>
+</div>
