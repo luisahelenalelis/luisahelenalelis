@@ -2,7 +2,7 @@
 
 #### I'm Luisa Oliveira
 
-:computer: Dev | :desert_island: Travel | :clapper: Series | :video_game: Sudoku
+:computer: Dev | :desert_island: Travel | :clapper: Filmes e Series | :video_game: Sudoku
 
 I'm a undergraduate student of Systems Analysis and Development at PUC MG. I'm interested in technologies and coding. In my free time I like to relax watching series and playing sudoko. I also love to travel with my family.
 
